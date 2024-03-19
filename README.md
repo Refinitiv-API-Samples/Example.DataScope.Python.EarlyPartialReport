@@ -1,4 +1,4 @@
-# [How to Retrieve Early Partial Delivery of Embargoed Reports via DataScope Select REST API](https://developers.refinitiv.com/en/article-catalog/article/how-to-retrieve-early-partial-delivery-of-embargoed-reports-via-0)
+# [How to Retrieve Early Partial Delivery of Embargoed Reports via DataScope Select REST API](https://developers.lseg.com/en/article-catalog/article/how-to-retrieve-early-partial-delivery-of-embargoed-reports-via-0)
 
 The Python example demonstrates how to perform the immediate schedule Intraday Pricing extraction with the PartialEmbargoedReportsEnabled options enabled. The example can be downloaded from GitHub. You can run the example with the following parameters.
 
@@ -35,7 +35,7 @@ The output is:
 ####################################################################
 
     Disclaimer:
-    The example applications presented here has been written by Refinitiv for the only purpose of illustrating articles published on the Refinitiv Developer Community. These example applications has not been tested for a usage in production environments. Refinitiv cannot be held responsible for any issues that may happen if these example applications o
+    The example applications presented here has been written by LSEG for the only purpose of illustrating articles published on the LSEG Developer Community. These example applications has not been tested for a usage in production environments. LSEG cannot be held responsible for any issues that may happen if these example applications o
 r the related source code is used in production or any other client environment.
 
 ####################################################################

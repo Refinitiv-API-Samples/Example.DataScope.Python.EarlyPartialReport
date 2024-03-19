@@ -547,7 +547,7 @@ def printDisclaimer():
     print("\n####################################################################")
     disclaimer = """
     Disclaimer:
-    The example applications presented here has been written by Refinitiv for the only purpose of illustrating articles published on the Refinitiv Developer Community. These example applications has not been tested for a usage in production environments. Refinitiv cannot be held responsible for any issues that may happen if these example applications or the related source code is used in production or any other client environment.
+    The example applications presented here has been written by LSEG for the only purpose of illustrating articles published on the LSEG Developer Community. These example applications has not been tested for a usage in production environments. LSEG cannot be held responsible for any issues that may happen if these example applications or the related source code is used in production or any other client environment.
     """
     print (disclaimer)
     print("####################################################################\n")
